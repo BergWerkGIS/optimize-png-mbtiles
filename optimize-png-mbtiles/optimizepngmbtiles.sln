@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "optimizepngmbtiles", "optimizepngmbtiles.csproj", "{9A2C4425-781E-4F3D-A044-CD60DC2EBE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A2C4425-781E-4F3D-A044-CD60DC2EBE47}.Debug|x64.ActiveCfg = Debug|x64
+		{9A2C4425-781E-4F3D-A044-CD60DC2EBE47}.Debug|x64.Build.0 = Debug|x64
+		{9A2C4425-781E-4F3D-A044-CD60DC2EBE47}.Release|x64.ActiveCfg = Release|x64
+		{9A2C4425-781E-4F3D-A044-CD60DC2EBE47}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC57270F-ED60-4C83-AF72-503885F60A96}
+	EndGlobalSection
+EndGlobal
